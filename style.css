@@ -1,0 +1,10 @@
+html {
+	/*Prevents padding to be added so that you dont get the horizontal scroll bar*/
+	box-sizing: border-box; 
+}
+
+body {
+	margin: 0;
+	/*Make background take up entire screen*/
+	min-height: 100vh;
+}
